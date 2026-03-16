@@ -1,0 +1,93 @@
+{
+  "participants": [
+    "Adrien",
+    "Alban",
+    "Eloan",
+    "Elodie",
+    "Florence",
+    "Florian",
+    "Pascal",
+    "Veronique"
+  ],
+  "events": [
+    {
+      "date": "2026-03-16",
+      "organizers": [
+        "Adrien",
+        "Elodie",
+        "Florence"
+      ],
+      "participants": [
+        "Adrien",
+        "Alban",
+        "Elodie",
+        "Florence",
+        "Florian",
+        "Pascal",
+        "Veronique"
+      ],
+      "notes": "1er lundi gras",
+      "created_at": "2026-03-16T15:34:17"
+    },
+    {
+      "date": "2026-04-20",
+      "organizers": [
+        "Florian",
+        "Pascal",
+        "Veronique"
+      ],
+      "participants": [
+        "Adrien",
+        "Alban",
+        "Eloan",
+        "Elodie",
+        "Florence",
+        "Florian",
+        "Pascal",
+        "Veronique"
+      ],
+      "notes": "",
+      "created_at": "2026-03-16T15:30:27"
+    },
+    {
+      "date": "2026-06-15",
+      "organizers": [
+        "Florence",
+        "Florian",
+        "Alban"
+      ],
+      "participants": [
+        "Adrien",
+        "Alban",
+        "Eloan",
+        "Elodie",
+        "Florence",
+        "Florian",
+        "Pascal",
+        "Veronique"
+      ],
+      "notes": "",
+      "created_at": "2026-03-16T15:36:43"
+    },
+    {
+      "date": "2026-07-20",
+      "organizers": [
+        "Veronique",
+        "Pascal",
+        "Elodie"
+      ],
+      "participants": [
+        "Adrien",
+        "Alban",
+        "Eloan",
+        "Elodie",
+        "Florence",
+        "Florian",
+        "Pascal",
+        "Veronique"
+      ],
+      "notes": "",
+      "created_at": "2026-03-16T15:37:06"
+    }
+  ]
+}
